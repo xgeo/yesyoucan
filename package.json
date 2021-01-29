@@ -1,0 +1,11 @@
+{
+  "name": "yesyoucan",
+  "version": "1.0.0",
+  "description": "yes you can!",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Geovanny L. Coutinho",
+  "license": "ISC"
+}
